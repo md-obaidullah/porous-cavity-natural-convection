@@ -26,7 +26,6 @@ A two-dimensional square cavity with:
 Results are validated against:
 - Molla et al. (2018) — MRT-LBM
 - De Vahl Davis (1983) — finite difference benchmark
-- Nithiarasu et al. (1997) — FEM
 
 ## Author
 **Md. Obaidullah**
