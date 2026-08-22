@@ -31,6 +31,12 @@ A two-dimensional square cavity with:
 *Left: De Vahl Davis (1983), Right: Present COMSOL simulation*
 
 ![Streamlines Comparison Ra=1e6](Comparative_Streamline.jpeg)
+
+### Average Nusselt Number Comparison
+*Comparison of average Nu between present COMSOL and Molla et al. (2018)*
+
+![Average Nusselt Number](Average_Nu.jpeg)
+
 ## Validation
 Results are validated against:
 - Molla et al. (2018) — MRT-LBM
