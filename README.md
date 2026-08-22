@@ -8,6 +8,7 @@ The work independently replicates key quantitative and qualitative results of:
 > Molla, M. M., Haque, M. J., Khan, M. A. I., and Saha, S. C. (2018). GPU Accelerated Multiple-Relaxation-Time Lattice Boltzmann Simulation of Convective Flows in a Porous Media. *Frontiers in Mechanical Engineering*, 4, 15.
 
 ## Problem Description
+![Cavity Geometry Schematic](cavity_geometry_schematic_v2.png)
 A two-dimensional square cavity with:
 - **Left wall:** hot isothermal boundary (Tₕ = 1)
 - **Right wall:** cold isothermal boundary (Tc = 0)
