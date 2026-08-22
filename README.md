@@ -23,7 +23,6 @@ A two-dimensional square cavity with:
 | Porosity (ε) | 0.4, 0.6 |
 | Prandtl number (Pr) | 0.71, 1.0 |
 
-## Results
 
 ## Results
 
