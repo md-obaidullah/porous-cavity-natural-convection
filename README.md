@@ -23,6 +23,14 @@ A two-dimensional square cavity with:
 | Porosity (ε) | 0.4, 0.6 |
 | Prandtl number (Pr) | 0.71, 1.0 |
 
+## Results
+
+## Results
+
+### Streamlines Comparison (Ra = 10⁶)
+*Left: De Vahl Davis (1983), Right: Present COMSOL simulation*
+
+![Streamlines Comparison Ra=1e6](Comparative_Streamline.jpeg)
 ## Validation
 Results are validated against:
 - Molla et al. (2018) — MRT-LBM
